@@ -11,6 +11,7 @@ const ListedProductsPage = () => (
     <SEO title="List of Products" />
     <h1>Check em out!</h1>
     <Skus />
+    <Link to='/'>Back to Homepage</Link>
   </Layout>
 )
 
